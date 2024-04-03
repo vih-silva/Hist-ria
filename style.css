@@ -3,3 +3,9 @@ body{
     color:azure ;
 }
 
+img{
+    width: 400px;
+    display: block;
+    margin: auto;
+    border: solid 5px greenyellow;
+}
