@@ -8,4 +8,5 @@ img{
     display: block;
     margin: auto;
     border: solid 5px greenyellow;
+    padding: 50px;
 }
